@@ -29,3 +29,5 @@ The layout uses combos on the baselayer to replace keys like enter and escape
 that do not fit on a small keyboard, one-shot mods/layers and a combo to
 activate a 'numword' layer which automatically de-activates when a non-numerical
 character is typed.
+
+* Installation
