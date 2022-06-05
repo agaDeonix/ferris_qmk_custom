@@ -6,15 +6,7 @@
 # under separate version control, while pulling changes
 # from QMK itself.
 #
-# Build via-enabled basic hwcrkbd with:
-# qmk compile -kb hwcrkbd/rev1 -km bsag-via
-# or for my custom keymap, no via:
-# qmk compile -kb hwcrkbd/rev1 -km bsag
-#
-# Ferris-emulating keymap for 3x6 crkbd
-# qmk compile -kb crkbd/rev1 -km mini3x6
-#
-# Actual keymap for 3x5 ferris sweep
+# Build keymap for 3x5 ferris sweep with:
 # qmk compile -kb ferris/sweep -km mini3x5
 
 MY_HOME=`echo $HOME`
